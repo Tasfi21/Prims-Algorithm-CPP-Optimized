@@ -10,5 +10,5 @@ This repository contains the optimized and final version of **Prim’s Algorithm
 ## File
 - `primfinal.cpp`
 
-## How to Run
+
 
